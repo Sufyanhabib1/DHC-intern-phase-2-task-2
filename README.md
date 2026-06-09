@@ -167,11 +167,10 @@ The trained model is automatically downloaded in Google Colab.
 files.download("churn_model.pkl")
 Project Structure
 Customer-Churn-Prediction/
-│
-├── customer_data.csv
-├── churn_model.pkl
-├── churn_prediction.ipynb
-└── README.md
+customer_data.csv
+churn_model.pkl
+churn_prediction.ipynb
+ README.md
 Output
 
 The program displays:
